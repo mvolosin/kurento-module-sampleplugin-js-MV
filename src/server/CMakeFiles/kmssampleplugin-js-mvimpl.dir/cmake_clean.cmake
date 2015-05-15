@@ -1,7 +1,7 @@
 FILE(REMOVE_RECURSE
-  "CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o"
-  "CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o"
-  "CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o"
+  "CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o"
+  "CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o"
+  "CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o"
   "libkmssampleplugin-js-mvimpl.pdb"
   "libkmssampleplugin-js-mvimpl.so"
   "libkmssampleplugin-js-mvimpl.so.0.0.1-dev"

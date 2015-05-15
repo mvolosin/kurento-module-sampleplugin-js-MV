@@ -14,7 +14,7 @@ SET(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/2.8.12.2/CMakeSystem.cmake"
   "src/server/FindKMSSAMPLEPLUGIN-JS-MV.cmake.in"
   "src/server/kmssampleplugin-js-mv.pc.in"
-  "src/server/sampleplugin-js-MVDependencies.cmake"
+  "src/server/sampleplugin-js-mvDependencies.cmake"
   "../config.h.cmake"
   "../src/CMakeLists.txt"
   "../src/gst-plugins/CMakeLists.txt"

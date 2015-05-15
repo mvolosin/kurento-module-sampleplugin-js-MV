@@ -37,7 +37,7 @@ IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspeci
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/kurento/modules/sampleplugin-js-MV" TYPE FILE FILES "/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter-js-MV.hpp")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/kurento/modules/sampleplugin-js-mv" TYPE FILE FILES "/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter_js_mv.hpp")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
@@ -77,9 +77,9 @@ IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspeci
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/kurento/modules/sampleplugin-js-MV" TYPE FILE FILES
-    "/home/markos/Downloads/3kms-plugin-sample-MV/src/server/implementation/objects/SamplePluginFilter-js-MVImpl.hpp"
-    "/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/implementation/generated-cpp/SamplePluginFilter-js-MVImplFactory.hpp"
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/kurento/modules/sampleplugin-js-mv" TYPE FILE FILES
+    "/home/markos/Downloads/3kms-plugin-sample-MV/src/server/implementation/objects/SamplePluginFilter_js_mvImpl.hpp"
+    "/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/implementation/generated-cpp/SamplePluginFilter_js_mvImplFactory.hpp"
     )
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
@@ -107,13 +107,13 @@ ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unsp
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/usr/local/share/kurento/modules/sampleplugin-js-MV.kmd.json")
+   "/usr/local/share/kurento/modules/sampleplugin-js-mv.kmd.json")
   IF (CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   ENDIF (CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
   IF (CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   ENDIF (CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
-FILE(INSTALL DESTINATION "/usr/local/share/kurento/modules" TYPE FILE FILES "/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/kmd/sampleplugin-js-MV.kmd.json")
+FILE(INSTALL DESTINATION "/usr/local/share/kurento/modules" TYPE FILE FILES "/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/kmd/sampleplugin-js-mv.kmd.json")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 

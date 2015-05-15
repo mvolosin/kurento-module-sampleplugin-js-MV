@@ -49,62 +49,62 @@ include src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/progress.make
 # Include the compile flags for this target's objects.
 include src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/flags.make
 
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/flags.make
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o: src/server/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/flags.make
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o: src/server/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles $(CMAKE_PROGRESS_1)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o"
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o -c /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o"
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o -c /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp
 
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.i"
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp > CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.i
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.i"
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp > CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.i
 
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.s"
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp -o CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.s
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.s"
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp -o CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.s
 
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o.requires:
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o.requires
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o.requires:
+.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o.requires
 
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o.provides: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o.requires
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o.provides.build
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o.provides
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o.provides: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o.requires
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o.provides.build
+.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o.provides
 
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o.provides.build: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o.provides.build: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o
 
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/flags.make
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o: src/server/interface/generated-cpp/SamplePluginFilter-js-MV.cpp
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/flags.make
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o: src/server/interface/generated-cpp/SamplePluginFilter_js_mv.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles $(CMAKE_PROGRESS_2)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o"
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o -c /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter-js-MV.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o"
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o -c /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter_js_mv.cpp
 
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.i"
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter-js-MV.cpp > CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.i
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.i"
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter_js_mv.cpp > CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.i
 
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.s"
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter-js-MV.cpp -o CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.s
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.s"
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter_js_mv.cpp -o CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.s
 
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o.requires:
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o.requires
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o.requires:
+.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o.requires
 
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o.provides: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o.requires
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o.provides.build
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o.provides
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o.provides: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o.requires
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o.provides.build
+.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o.provides
 
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o.provides.build: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o.provides.build: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o
 
 # Object files for target kmssampleplugin-js-mvinterface
 kmssampleplugin__js__mvinterface_OBJECTS = \
-"CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o" \
-"CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o"
+"CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o" \
+"CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o"
 
 # External object files for target kmssampleplugin-js-mvinterface
 kmssampleplugin__js__mvinterface_EXTERNAL_OBJECTS =
 
-src/server/libkmssampleplugin-js-mvinterface.a: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o
-src/server/libkmssampleplugin-js-mvinterface.a: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o
+src/server/libkmssampleplugin-js-mvinterface.a: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o
+src/server/libkmssampleplugin-js-mvinterface.a: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o
 src/server/libkmssampleplugin-js-mvinterface.a: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make
 src/server/libkmssampleplugin-js-mvinterface.a: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX static library libkmssampleplugin-js-mvinterface.a"
@@ -115,8 +115,8 @@ src/server/libkmssampleplugin-js-mvinterface.a: src/server/CMakeFiles/kmssamplep
 src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build: src/server/libkmssampleplugin-js-mvinterface.a
 .PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build
 
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/requires: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o.requires
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/requires: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o.requires
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/requires: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o.requires
+src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/requires: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o.requires
 .PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/requires
 
 src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/clean:

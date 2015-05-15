@@ -4,5 +4,5 @@
 
     const char * getModuleDescriptor () {
     return
-    #include "sampleplugin-js-MV.kmd.json"
+    #include "sampleplugin-js-mv.kmd.json"
 ;}

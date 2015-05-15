@@ -2,8 +2,8 @@
 
 #include "FactoryRegistrar.hpp"
 
-#include <SamplePluginFilter-js-MVImplFactory.hpp>
-#include <SamplePluginFilter-js-MV.hpp>
+#include <SamplePluginFilter_js_mvImplFactory.hpp>
+#include <SamplePluginFilter_js_mv.hpp>
 
 extern "C" {
 
@@ -18,7 +18,7 @@ getFactoryRegistrar ()
   static std::map<std::string, std::shared_ptr<kurento::Factory>> factories;
 
   if (!loaded) {
-    factories["SamplePluginFilter-js-MV"] = std::shared_ptr <kurento::Factory> (new kurento::module::sampleplugin-js-MV::SamplePluginFilter-js-MVImplFactory() );
+    factories["SamplePluginFilter_js_mv"] = std::shared_ptr <kurento::Factory> (new kurento::module::sampleplugin-js-mv::SamplePluginFilter_js_mvImplFactory() );
     loaded = true;
   }
 

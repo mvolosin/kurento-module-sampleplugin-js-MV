@@ -1,5 +1,5 @@
 {
-  "name": "sampleplugin-js-MV",
+  "name": "sampleplugin-js-mv",
   "version": "0.0.1-dev",
   "kurentoVersion": "^5.0.0",
   "imports": [
@@ -25,26 +25,26 @@
   "code": {
     "api": {
       "js": {
-        "nodeName": "kurento-module-sampleplugin-js-MV",
+        "nodeName": "kurento-module-sampleplugin-js-mv",
         "npmDescription": "Sample plugin MV",
-        "npmGit": "mvolosin/kurento-module-sampleplugin-js-MV",
-        "npmVersion": "mvolosin/kurento-module-sampleplugin-js-MV#develop"
+        "npmGit": "mvolosin/kurento-module-sampleplugin-js-mv",
+        "npmVersion": "mvolosin/kurento-module-sampleplugin-js-mv#develop"
       },
       "java": {
         "mavenGroupId": "org.kurento.module",
-        "packageName": "org.kurento.module.sampleplugin-js-MV",
-        "mavenArtifactId": "sampleplugin-js-MV",
+        "packageName": "org.kurento.module.sampleplugin-js-mv",
+        "mavenArtifactId": "sampleplugin-js-mv",
         "mavenVersion": "0.0.1-SNAPSHOT"
       }
     },
     "implementation": {
       "lib": "libkmssampleplugin-js-mv",
-      "cppNamespace": "kurento::module::sampleplugin-js-MV"
+      "cppNamespace": "kurento::module::sampleplugin-js-mv"
     }
   },
   "remoteClasses": [
     {
-      "name": "SamplePluginFilter-js-MV",
+      "name": "SamplePluginFilter_js_mv",
       "doc": "Doc for sample plugin",
       "extends": "Filter",
       "constructor": {

@@ -4,9 +4,9 @@ namespace kurento
 {
 namespace module
 {
-namespace sampleplugin-js-MV
+namespace sampleplugin-js-mv
 {
 
-} /* sampleplugin-js-MV */
+} /* sampleplugin-js-mv */
 } /* module */
 } /* kurento */

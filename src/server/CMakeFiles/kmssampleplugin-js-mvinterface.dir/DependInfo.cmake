@@ -4,8 +4,8 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter-js-MV.cpp" "/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o"
-  "/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp" "/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o"
+  "/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter_js_mv.cpp" "/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o"
+  "/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp" "/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 

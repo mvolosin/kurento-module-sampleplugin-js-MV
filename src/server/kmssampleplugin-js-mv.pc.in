@@ -4,7 +4,7 @@ libdir=@libdir@
 includedir=@includedir@
 
 Name: kmssampleplugin-js-mv
-Description: Kurento sampleplugin-js-MV Module
+Description: Kurento sampleplugin-js-mv Module
 Version: 0.0.1-dev
 URL:
 Requires: kmscore  kmselements  kmsfilters  @requires@

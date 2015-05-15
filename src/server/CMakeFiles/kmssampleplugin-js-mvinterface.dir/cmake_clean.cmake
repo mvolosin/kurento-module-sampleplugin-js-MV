@@ -1,6 +1,6 @@
 FILE(REMOVE_RECURSE
-  "CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o"
-  "CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o"
+  "CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o"
+  "CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o"
   "libkmssampleplugin-js-mvinterface.pdb"
   "libkmssampleplugin-js-mvinterface.a"
 )

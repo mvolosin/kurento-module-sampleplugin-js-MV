@@ -1,10 +1,10 @@
 prefix=/usr/local
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib/x86_64-linux-gnu
-includedir=${prefix}/include/kurento/modules/sampleplugin-js-MV
+includedir=${prefix}/include/kurento/modules/sampleplugin-js-mv
 
 Name: kmssampleplugin-js-mv
-Description: Kurento sampleplugin-js-MV Module
+Description: Kurento sampleplugin-js-mv Module
 Version: 0.0.1-dev
 URL:
 Requires: kmscore  kmselements  kmsfilters  

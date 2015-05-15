@@ -43,40 +43,40 @@ set(KMSSAMPLEPLUGIN-JS-MV_INCLUDE_DIRS
   ${KMSFILTERS_INCLUDE_DIRS}
 )
 
-if (NOT "SamplePluginFilter-js-MV.hpp SamplePluginFilter-js-MVInternal.hpp" STREQUAL " ")
+if (NOT "SamplePluginFilter_js_mv.hpp SamplePluginFilter_js_mvInternal.hpp" STREQUAL " ")
   find_path(KMSSAMPLEPLUGIN-JS-MV_INTERFACE_INCLUDE_DIR
     NAMES
-      SamplePluginFilter-js-MV.hpp
-      SamplePluginFilter-js-MVInternal.hpp
+      SamplePluginFilter_js_mv.hpp
+      SamplePluginFilter_js_mvInternal.hpp
     PATH_SUFFIXES
       build/src/server/interface/generated-cpp
-      kurento/modules/sampleplugin-js-MV
+      kurento/modules/sampleplugin-js-mv
   )
 
   list (APPEND KMSSAMPLEPLUGIN-JS-MV_INCLUDE_DIRS ${KMSSAMPLEPLUGIN-JS-MV_INTERFACE_INCLUDE_DIR})
   list (APPEND REQUIRED_VARS KMSSAMPLEPLUGIN-JS-MV_INTERFACE_INCLUDE_DIR)
 endif ()
 
-if (NOT "SamplePluginFilter-js-MVImplFactory.hpp" STREQUAL "")
+if (NOT "SamplePluginFilter_js_mvImplFactory.hpp" STREQUAL "")
   find_path(KMSSAMPLEPLUGIN-JS-MV_IMPLEMENTATION_INTERNAL_INCLUDE_DIR
     NAMES
-      SamplePluginFilter-js-MVImplFactory.hpp
+      SamplePluginFilter_js_mvImplFactory.hpp
     PATH_SUFFIXES
       build/src/server/implementation/generated-cpp
-      kurento/modules/sampleplugin-js-MV
+      kurento/modules/sampleplugin-js-mv
   )
 
   list (APPEND KMSSAMPLEPLUGIN-JS-MV_INCLUDE_DIRS ${KMSSAMPLEPLUGIN-JS-MV_IMPLEMENTATION_INTERNAL_INCLUDE_DIR})
   list (APPEND REQUIRED_VARS KMSSAMPLEPLUGIN-JS-MV_IMPLEMENTATION_INTERNAL_INCLUDE_DIR)
 endif ()
 
-if (NOT "SamplePluginFilter-js-MVImpl.hpp" STREQUAL "")
+if (NOT "SamplePluginFilter_js_mvImpl.hpp" STREQUAL "")
   find_path(KMSSAMPLEPLUGIN-JS-MV_IMPLEMENTATION_GENERATED_INCLUDE_DIR
     NAMES
-      SamplePluginFilter-js-MVImpl.hpp
+      SamplePluginFilter_js_mvImpl.hpp
     PATH_SUFFIXES
       src/server/implementation/objects
-      kurento/modules/sampleplugin-js-MV
+      kurento/modules/sampleplugin-js-mv
   )
 
   list (APPEND KMSSAMPLEPLUGIN-JS-MV_INCLUDE_DIRS ${KMSSAMPLEPLUGIN-JS-MV_IMPLEMENTATION_GENERATED_INCLUDE_DIR})
@@ -89,7 +89,7 @@ if (NOT "" STREQUAL "")
       
     PATH_SUFFIXES
       
-      kurento/modules/sampleplugin-js-MV
+      kurento/modules/sampleplugin-js-mv
   )
 
   list (APPEND KMSSAMPLEPLUGIN-JS-MV_INCLUDE_DIRS ${KMSSAMPLEPLUGIN-JS-MV_IMPLEMENTATION_EXTRA_INCLUDE_DIR})
@@ -102,7 +102,7 @@ if (NOT "" STREQUAL "")
       
     PATH_SUFFIXES
       
-      kurento/modules/sampleplugin-js-MV
+      kurento/modules/sampleplugin-js-mv
   )
 
   list (APPEND KMSSAMPLEPLUGIN-JS-MV_INCLUDE_DIRS ${KMSSAMPLEPLUGIN-JS-MV_INTERFACE_EXTRA_INCLUDE_DIR})

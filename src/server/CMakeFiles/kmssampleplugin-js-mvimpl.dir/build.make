@@ -49,87 +49,87 @@ include src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/progress.make
 # Include the compile flags for this target's objects.
 include src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/flags.make
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/flags.make
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o: ../src/server/implementation/objects/SamplePluginFilter-js-MVImpl.cpp
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/flags.make
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o: ../src/server/implementation/objects/SamplePluginFilter_js_mvImpl.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles $(CMAKE_PROGRESS_1)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o"
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o -c /home/markos/Downloads/3kms-plugin-sample-MV/src/server/implementation/objects/SamplePluginFilter-js-MVImpl.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o"
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o -c /home/markos/Downloads/3kms-plugin-sample-MV/src/server/implementation/objects/SamplePluginFilter_js_mvImpl.cpp
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.i"
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/markos/Downloads/3kms-plugin-sample-MV/src/server/implementation/objects/SamplePluginFilter-js-MVImpl.cpp > CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.i
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.i"
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/markos/Downloads/3kms-plugin-sample-MV/src/server/implementation/objects/SamplePluginFilter_js_mvImpl.cpp > CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.i
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.s"
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/markos/Downloads/3kms-plugin-sample-MV/src/server/implementation/objects/SamplePluginFilter-js-MVImpl.cpp -o CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.s
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.s"
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/markos/Downloads/3kms-plugin-sample-MV/src/server/implementation/objects/SamplePluginFilter_js_mvImpl.cpp -o CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.s
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o.requires:
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o.requires
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o.requires:
+.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o.requires
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o.provides: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o.requires
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o.provides.build
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o.provides
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o.provides: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o.requires
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o.provides.build
+.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o.provides
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o.provides.build: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o.provides.build: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/flags.make
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o: src/server/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/flags.make
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o: src/server/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles $(CMAKE_PROGRESS_2)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o"
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o -c /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o"
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o -c /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.i"
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp > CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.i
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.i"
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp > CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.i
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.s"
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp -o CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.s
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.s"
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp -o CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.s
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o.requires:
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o.requires
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o.requires:
+.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o.requires
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o.provides: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o.requires
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o.provides.build
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o.provides
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o.provides: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o.requires
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o.provides.build
+.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o.provides
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o.provides.build: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o.provides.build: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/flags.make
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o: src/server/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/flags.make
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o: src/server/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles $(CMAKE_PROGRESS_3)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o"
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o -c /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o"
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o -c /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.i"
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp > CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.i
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.i"
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp > CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.i
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.s"
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp -o CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.s
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.s"
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp -o CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.s
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o.requires:
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o.requires
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o.requires:
+.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o.requires
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o.provides: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o.requires
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o.provides.build
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o.provides
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o.provides: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o.requires
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o.provides.build
+.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o.provides
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o.provides.build: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o.provides.build: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o
 
 # Object files for target kmssampleplugin-js-mvimpl
 kmssampleplugin__js__mvimpl_OBJECTS = \
-"CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o" \
-"CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o" \
-"CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o"
+"CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o" \
+"CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o" \
+"CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o"
 
 # External object files for target kmssampleplugin-js-mvimpl
 kmssampleplugin__js__mvimpl_EXTERNAL_OBJECTS =
 
-src/server/libkmssampleplugin-js-mvimpl.so.0.0.1-dev: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o
-src/server/libkmssampleplugin-js-mvimpl.so.0.0.1-dev: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o
-src/server/libkmssampleplugin-js-mvimpl.so.0.0.1-dev: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o
+src/server/libkmssampleplugin-js-mvimpl.so.0.0.1-dev: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o
+src/server/libkmssampleplugin-js-mvimpl.so.0.0.1-dev: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o
+src/server/libkmssampleplugin-js-mvimpl.so.0.0.1-dev: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o
 src/server/libkmssampleplugin-js-mvimpl.so.0.0.1-dev: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make
 src/server/libkmssampleplugin-js-mvimpl.so.0.0.1-dev: /usr/lib/x86_64-linux-gnu/libkmselementsimpl.so
 src/server/libkmssampleplugin-js-mvimpl.so.0.0.1-dev: /usr/lib/x86_64-linux-gnu/libkmsfiltersimpl.so
@@ -152,9 +152,9 @@ src/server/libkmssampleplugin-js-mvimpl.so: src/server/libkmssampleplugin-js-mvi
 src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build: src/server/libkmssampleplugin-js-mvimpl.so
 .PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build
 
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/requires: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o.requires
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/requires: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o.requires
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/requires: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o.requires
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/requires: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o.requires
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/requires: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o.requires
+src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/requires: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o.requires
 .PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/requires
 
 src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/clean:

@@ -219,125 +219,125 @@ implementation/generated-cpp/Module.cpp.s:
 	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/implementation/generated-cpp/Module.cpp.s
 .PHONY : implementation/generated-cpp/Module.cpp.s
 
-implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.o: implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o
-.PHONY : implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.o
+implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.o: implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o
+.PHONY : implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.o
 
 # target to build an object file
-implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o
-.PHONY : implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.o
+implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o
+.PHONY : implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.o
 
-implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.i: implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.i
-.PHONY : implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.i
+implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.i: implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.i
+.PHONY : implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.i
 
 # target to preprocess a source file
-implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.i:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.i
-.PHONY : implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.i
+implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.i:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.i
+.PHONY : implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.i
 
-implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.s: implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.s
-.PHONY : implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.s
+implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.s: implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.s
+.PHONY : implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.s
 
 # target to generate assembly for a file
-implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.s:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.s
-.PHONY : implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.cpp.s
+implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.s:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.s
+.PHONY : implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.cpp.s
 
-implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.o: implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o
-.PHONY : implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.o
+implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.o: implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o
+.PHONY : implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.o
 
 # target to build an object file
-implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o
-.PHONY : implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.o
+implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o
+.PHONY : implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.o
 
-implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.i: implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.i
-.PHONY : implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.i
+implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.i: implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.i
+.PHONY : implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.i
 
 # target to preprocess a source file
-implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.i:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.i
-.PHONY : implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.i
+implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.i:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.i
+.PHONY : implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.i
 
-implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.s: implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.s
-.PHONY : implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.s
+implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.s: implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.s
+.PHONY : implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.s
 
 # target to generate assembly for a file
-implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.s:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.s
-.PHONY : implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.cpp.s
+implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.s:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.s
+.PHONY : implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.cpp.s
 
-implementation/objects/SamplePluginFilter-js-MVImpl.o: implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o
-.PHONY : implementation/objects/SamplePluginFilter-js-MVImpl.o
+implementation/objects/SamplePluginFilter_js_mvImpl.o: implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o
+.PHONY : implementation/objects/SamplePluginFilter_js_mvImpl.o
 
 # target to build an object file
-implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o
-.PHONY : implementation/objects/SamplePluginFilter-js-MVImpl.cpp.o
+implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o
+.PHONY : implementation/objects/SamplePluginFilter_js_mvImpl.cpp.o
 
-implementation/objects/SamplePluginFilter-js-MVImpl.i: implementation/objects/SamplePluginFilter-js-MVImpl.cpp.i
-.PHONY : implementation/objects/SamplePluginFilter-js-MVImpl.i
+implementation/objects/SamplePluginFilter_js_mvImpl.i: implementation/objects/SamplePluginFilter_js_mvImpl.cpp.i
+.PHONY : implementation/objects/SamplePluginFilter_js_mvImpl.i
 
 # target to preprocess a source file
-implementation/objects/SamplePluginFilter-js-MVImpl.cpp.i:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.i
-.PHONY : implementation/objects/SamplePluginFilter-js-MVImpl.cpp.i
+implementation/objects/SamplePluginFilter_js_mvImpl.cpp.i:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.i
+.PHONY : implementation/objects/SamplePluginFilter_js_mvImpl.cpp.i
 
-implementation/objects/SamplePluginFilter-js-MVImpl.s: implementation/objects/SamplePluginFilter-js-MVImpl.cpp.s
-.PHONY : implementation/objects/SamplePluginFilter-js-MVImpl.s
+implementation/objects/SamplePluginFilter_js_mvImpl.s: implementation/objects/SamplePluginFilter_js_mvImpl.cpp.s
+.PHONY : implementation/objects/SamplePluginFilter_js_mvImpl.s
 
 # target to generate assembly for a file
-implementation/objects/SamplePluginFilter-js-MVImpl.cpp.s:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter-js-MVImpl.cpp.s
-.PHONY : implementation/objects/SamplePluginFilter-js-MVImpl.cpp.s
+implementation/objects/SamplePluginFilter_js_mvImpl.cpp.s:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/implementation/objects/SamplePluginFilter_js_mvImpl.cpp.s
+.PHONY : implementation/objects/SamplePluginFilter_js_mvImpl.cpp.s
 
-interface/generated-cpp/SamplePluginFilter-js-MV.o: interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o
-.PHONY : interface/generated-cpp/SamplePluginFilter-js-MV.o
+interface/generated-cpp/SamplePluginFilter_js_mv.o: interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o
+.PHONY : interface/generated-cpp/SamplePluginFilter_js_mv.o
 
 # target to build an object file
-interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o
-.PHONY : interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o
+interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o
+.PHONY : interface/generated-cpp/SamplePluginFilter_js_mv.cpp.o
 
-interface/generated-cpp/SamplePluginFilter-js-MV.i: interface/generated-cpp/SamplePluginFilter-js-MV.cpp.i
-.PHONY : interface/generated-cpp/SamplePluginFilter-js-MV.i
+interface/generated-cpp/SamplePluginFilter_js_mv.i: interface/generated-cpp/SamplePluginFilter_js_mv.cpp.i
+.PHONY : interface/generated-cpp/SamplePluginFilter_js_mv.i
 
 # target to preprocess a source file
-interface/generated-cpp/SamplePluginFilter-js-MV.cpp.i:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.i
-.PHONY : interface/generated-cpp/SamplePluginFilter-js-MV.cpp.i
+interface/generated-cpp/SamplePluginFilter_js_mv.cpp.i:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.i
+.PHONY : interface/generated-cpp/SamplePluginFilter_js_mv.cpp.i
 
-interface/generated-cpp/SamplePluginFilter-js-MV.s: interface/generated-cpp/SamplePluginFilter-js-MV.cpp.s
-.PHONY : interface/generated-cpp/SamplePluginFilter-js-MV.s
+interface/generated-cpp/SamplePluginFilter_js_mv.s: interface/generated-cpp/SamplePluginFilter_js_mv.cpp.s
+.PHONY : interface/generated-cpp/SamplePluginFilter_js_mv.s
 
 # target to generate assembly for a file
-interface/generated-cpp/SamplePluginFilter-js-MV.cpp.s:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.s
-.PHONY : interface/generated-cpp/SamplePluginFilter-js-MV.cpp.s
+interface/generated-cpp/SamplePluginFilter_js_mv.cpp.s:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mv.cpp.s
+.PHONY : interface/generated-cpp/SamplePluginFilter_js_mv.cpp.s
 
-interface/generated-cpp/SamplePluginFilter-js-MVInternal.o: interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o
-.PHONY : interface/generated-cpp/SamplePluginFilter-js-MVInternal.o
+interface/generated-cpp/SamplePluginFilter_js_mvInternal.o: interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o
+.PHONY : interface/generated-cpp/SamplePluginFilter_js_mvInternal.o
 
 # target to build an object file
-interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o
-.PHONY : interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o
+interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o
+.PHONY : interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.o
 
-interface/generated-cpp/SamplePluginFilter-js-MVInternal.i: interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.i
-.PHONY : interface/generated-cpp/SamplePluginFilter-js-MVInternal.i
+interface/generated-cpp/SamplePluginFilter_js_mvInternal.i: interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.i
+.PHONY : interface/generated-cpp/SamplePluginFilter_js_mvInternal.i
 
 # target to preprocess a source file
-interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.i:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.i
-.PHONY : interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.i
+interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.i:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.i
+.PHONY : interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.i
 
-interface/generated-cpp/SamplePluginFilter-js-MVInternal.s: interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.s
-.PHONY : interface/generated-cpp/SamplePluginFilter-js-MVInternal.s
+interface/generated-cpp/SamplePluginFilter_js_mvInternal.s: interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.s
+.PHONY : interface/generated-cpp/SamplePluginFilter_js_mvInternal.s
 
 # target to generate assembly for a file
-interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.s:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.s
-.PHONY : interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.s
+interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.s:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.s
+.PHONY : interface/generated-cpp/SamplePluginFilter_js_mvInternal.cpp.s
 
 module_descriptor.o: module_descriptor.cpp.o
 .PHONY : module_descriptor.o
@@ -430,21 +430,21 @@ help:
 	@echo "... implementation/generated-cpp/Module.o"
 	@echo "... implementation/generated-cpp/Module.i"
 	@echo "... implementation/generated-cpp/Module.s"
-	@echo "... implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.o"
-	@echo "... implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.i"
-	@echo "... implementation/generated-cpp/SamplePluginFilter-js-MVImplInternal.s"
-	@echo "... implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.o"
-	@echo "... implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.i"
-	@echo "... implementation/generated-cpp/SerializerExpanderSampleplugin-js-MV.s"
-	@echo "... implementation/objects/SamplePluginFilter-js-MVImpl.o"
-	@echo "... implementation/objects/SamplePluginFilter-js-MVImpl.i"
-	@echo "... implementation/objects/SamplePluginFilter-js-MVImpl.s"
-	@echo "... interface/generated-cpp/SamplePluginFilter-js-MV.o"
-	@echo "... interface/generated-cpp/SamplePluginFilter-js-MV.i"
-	@echo "... interface/generated-cpp/SamplePluginFilter-js-MV.s"
-	@echo "... interface/generated-cpp/SamplePluginFilter-js-MVInternal.o"
-	@echo "... interface/generated-cpp/SamplePluginFilter-js-MVInternal.i"
-	@echo "... interface/generated-cpp/SamplePluginFilter-js-MVInternal.s"
+	@echo "... implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.o"
+	@echo "... implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.i"
+	@echo "... implementation/generated-cpp/SamplePluginFilter_js_mvImplInternal.s"
+	@echo "... implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.o"
+	@echo "... implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.i"
+	@echo "... implementation/generated-cpp/SerializerExpanderSampleplugin-js-mv.s"
+	@echo "... implementation/objects/SamplePluginFilter_js_mvImpl.o"
+	@echo "... implementation/objects/SamplePluginFilter_js_mvImpl.i"
+	@echo "... implementation/objects/SamplePluginFilter_js_mvImpl.s"
+	@echo "... interface/generated-cpp/SamplePluginFilter_js_mv.o"
+	@echo "... interface/generated-cpp/SamplePluginFilter_js_mv.i"
+	@echo "... interface/generated-cpp/SamplePluginFilter_js_mv.s"
+	@echo "... interface/generated-cpp/SamplePluginFilter_js_mvInternal.o"
+	@echo "... interface/generated-cpp/SamplePluginFilter_js_mvInternal.i"
+	@echo "... interface/generated-cpp/SamplePluginFilter_js_mvInternal.s"
 	@echo "... module_descriptor.o"
 	@echo "... module_descriptor.i"
 	@echo "... module_descriptor.s"
