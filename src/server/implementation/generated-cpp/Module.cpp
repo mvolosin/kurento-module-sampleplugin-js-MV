@@ -18,7 +18,7 @@ getFactoryRegistrar ()
   static std::map<std::string, std::shared_ptr<kurento::Factory>> factories;
 
   if (!loaded) {
-    factories["SamplePluginFilter_js_mv"] = std::shared_ptr <kurento::Factory> (new kurento::module::sampleplugin-js-mv::SamplePluginFilter_js_mvImplFactory() );
+    factories["SamplePluginFilter_js_mv"] = std::shared_ptr <kurento::Factory> (new kurento::module::sampleplugin_js_mv::SamplePluginFilter_js_mvImplFactory() );
     loaded = true;
   }
 

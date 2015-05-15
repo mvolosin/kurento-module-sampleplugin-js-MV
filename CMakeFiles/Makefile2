@@ -74,16 +74,16 @@ src/preinstall: src/gst-plugins/preinstall
 # Directory level rules for directory src/server
 
 # Convenience name for "all" pass in the directory.
-src/server/all: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/all
-src/server/all: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/all
-src/server/all: src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/all
+src/server/all: src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/all
+src/server/all: src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/all
+src/server/all: src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/all
 .PHONY : src/server/all
 
 # Convenience name for "clean" pass in the directory.
 src/server/clean: src/server/CMakeFiles/generate_code.dir/clean
-src/server/clean: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/clean
-src/server/clean: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/clean
-src/server/clean: src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/clean
+src/server/clean: src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/clean
+src/server/clean: src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/clean
+src/server/clean: src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/clean
 .PHONY : src/server/clean
 
 # Convenience name for "preinstall" pass in the directory.
@@ -122,120 +122,120 @@ clean: src/server/CMakeFiles/generate_code.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir
+# Target rules for target src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir
 
 # All Build rule for target.
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/all: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/all
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/depend
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build
+src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/all: src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/all
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/depend
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles  1 2 3
-	@echo "Built target kmssampleplugin-js-mvimpl"
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/all
+	@echo "Built target kmssampleplugin_js_mvimpl"
+.PHONY : src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/all
 
 # Include target in all.
-all: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/all
+all: src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/all
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/rule: cmake_check_build_system
+src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles 5
-	$(MAKE) -f CMakeFiles/Makefile2 src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles 0
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/rule
+.PHONY : src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/rule
 
 # Convenience name for target.
-kmssampleplugin-js-mvimpl: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/rule
-.PHONY : kmssampleplugin-js-mvimpl
+kmssampleplugin_js_mvimpl: src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/rule
+.PHONY : kmssampleplugin_js_mvimpl
 
 # clean rule for target.
-src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/clean:
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/clean
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/clean
+src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/clean:
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/clean
+.PHONY : src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/clean
 
 # clean rule for target.
-clean: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/clean
+clean: src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir
+# Target rules for target src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir
 
 # All Build rule for target.
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/all:
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/depend
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build
+src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/all:
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/depend
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles  4 5
-	@echo "Built target kmssampleplugin-js-mvinterface"
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/all
+	@echo "Built target kmssampleplugin_js_mvinterface"
+.PHONY : src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/all
 
 # Include target in all.
-all: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/all
+all: src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/all
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/rule: cmake_check_build_system
+src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles 0
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/rule
+.PHONY : src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/rule
 
 # Convenience name for target.
-kmssampleplugin-js-mvinterface: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/rule
-.PHONY : kmssampleplugin-js-mvinterface
+kmssampleplugin_js_mvinterface: src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/rule
+.PHONY : kmssampleplugin_js_mvinterface
 
 # clean rule for target.
-src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/clean:
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/clean
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/clean
+src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/clean:
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/clean
+.PHONY : src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/clean
 
 # clean rule for target.
-clean: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/clean
+clean: src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir
+# Target rules for target src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir
 
 # All Build rule for target.
-src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/all: src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/all
-src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/all: src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/all
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/depend
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/build
+src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/all: src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/all
+src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/all: src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/all
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/build.make src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/depend
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/build.make src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles  6 7 8 9
-	@echo "Built target kmssampleplugin-js-mvmodule"
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/all
+	@echo "Built target kmssampleplugin_js_mvmodule"
+.PHONY : src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/all
 
 # Include target in all.
-all: src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/all
+all: src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/all
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/rule: cmake_check_build_system
+src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles 9
-	$(MAKE) -f CMakeFiles/Makefile2 src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles 0
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/rule
+.PHONY : src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/rule
 
 # Convenience name for target.
-kmssampleplugin-js-mvmodule: src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/rule
-.PHONY : kmssampleplugin-js-mvmodule
+kmssampleplugin_js_mvmodule: src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/rule
+.PHONY : kmssampleplugin_js_mvmodule
 
 # clean rule for target.
-src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/clean:
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/clean
-.PHONY : src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/clean
+src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/clean:
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/build.make src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/clean
+.PHONY : src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/clean
 
 # clean rule for target.
-clean: src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/clean
+clean: src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/clean
 .PHONY : clean
 
 #=============================================================================
 # Directory level rules for directory src/gst-plugins
 
 # Convenience name for "all" pass in the directory.
-src/gst-plugins/all: src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/all
+src/gst-plugins/all: src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/all
 .PHONY : src/gst-plugins/all
 
 # Convenience name for "clean" pass in the directory.
-src/gst-plugins/clean: src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/clean
+src/gst-plugins/clean: src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/clean
 .PHONY : src/gst-plugins/clean
 
 # Convenience name for "preinstall" pass in the directory.
@@ -243,38 +243,38 @@ src/gst-plugins/preinstall:
 .PHONY : src/gst-plugins/preinstall
 
 #=============================================================================
-# Target rules for target src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir
+# Target rules for target src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir
 
 # All Build rule for target.
-src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/all:
-	$(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/depend
-	$(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build
+src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/all:
+	$(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/depend
+	$(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles  10 11 12 13 14 15
-	@echo "Built target kmssampleplugin-js-mvplugins"
-.PHONY : src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/all
+	@echo "Built target kmssampleplugin_js_mvplugins"
+.PHONY : src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/all
 
 # Include target in all.
-all: src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/all
+all: src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/all
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/rule: cmake_check_build_system
+src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles 6
-	$(MAKE) -f CMakeFiles/Makefile2 src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/markos/Downloads/3kms-plugin-sample-MV/build/CMakeFiles 0
-.PHONY : src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/rule
+.PHONY : src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/rule
 
 # Convenience name for target.
-kmssampleplugin-js-mvplugins: src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/rule
-.PHONY : kmssampleplugin-js-mvplugins
+kmssampleplugin_js_mvplugins: src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/rule
+.PHONY : kmssampleplugin_js_mvplugins
 
 # clean rule for target.
-src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/clean:
-	$(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/clean
-.PHONY : src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/clean
+src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/clean:
+	$(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/clean
+.PHONY : src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/clean
 
 # clean rule for target.
-clean: src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/clean
+clean: src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/clean
 .PHONY : clean
 
 #=============================================================================

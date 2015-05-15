@@ -14,7 +14,7 @@ namespace kurento
 {
 namespace module
 {
-namespace sampleplugin-js-mv
+namespace sampleplugin_js_mv
 {
 
 MediaObjectImpl *SamplePluginFilter_js_mvImplFactory::createObjectPointer (const boost::property_tree::ptree &conf, const Json::Value &params) const
@@ -78,7 +78,7 @@ SamplePluginFilter_js_mvImpl::Serialize (JsonSerializer &serializer)
                             "'SamplePluginFilter_js_mvImpl' cannot be deserialized as an object");
   }
 }
-} /* sampleplugin-js-mv */
+} /* sampleplugin_js_mv */
 } /* module */
 } /* kurento */
 
@@ -86,7 +86,7 @@ namespace kurento
 {
 
 void
-Serialize (std::shared_ptr<kurento::module::sampleplugin-js-mv::SamplePluginFilter_js_mvImpl> &object, JsonSerializer &serializer)
+Serialize (std::shared_ptr<kurento::module::sampleplugin_js_mv::SamplePluginFilter_js_mvImpl> &object, JsonSerializer &serializer)
 {
   if (serializer.IsWriter) {
     if (object) {
@@ -94,18 +94,18 @@ Serialize (std::shared_ptr<kurento::module::sampleplugin-js-mv::SamplePluginFilt
     }
   } else {
     std::shared_ptr<kurento::MediaObjectImpl> aux;
-    aux = kurento::module::sampleplugin-js-mv::SamplePluginFilter_js_mvImplFactory::getObject (JsonFixes::getString(serializer.JsonValue) );
-    object = std::dynamic_pointer_cast<kurento::module::sampleplugin-js-mv::SamplePluginFilter_js_mvImpl> (aux);
+    aux = kurento::module::sampleplugin_js_mv::SamplePluginFilter_js_mvImplFactory::getObject (JsonFixes::getString(serializer.JsonValue) );
+    object = std::dynamic_pointer_cast<kurento::module::sampleplugin_js_mv::SamplePluginFilter_js_mvImpl> (aux);
   }
 }
 
 void
-Serialize (std::shared_ptr<kurento::module::sampleplugin-js-mv::SamplePluginFilter_js_mv> &object, JsonSerializer &serializer)
+Serialize (std::shared_ptr<kurento::module::sampleplugin_js_mv::SamplePluginFilter_js_mv> &object, JsonSerializer &serializer)
 {
-  std::shared_ptr<kurento::module::sampleplugin-js-mv::SamplePluginFilter_js_mvImpl> aux = std::dynamic_pointer_cast<kurento::module::sampleplugin-js-mv::SamplePluginFilter_js_mvImpl> (object);
+  std::shared_ptr<kurento::module::sampleplugin_js_mv::SamplePluginFilter_js_mvImpl> aux = std::dynamic_pointer_cast<kurento::module::sampleplugin_js_mv::SamplePluginFilter_js_mvImpl> (object);
 
   Serialize (aux, serializer);
-  object = std::dynamic_pointer_cast <kurento::module::sampleplugin-js-mv::SamplePluginFilter_js_mv> (aux);
+  object = std::dynamic_pointer_cast <kurento::module::sampleplugin_js_mv::SamplePluginFilter_js_mv> (aux);
 }
 
 } /* kurento */

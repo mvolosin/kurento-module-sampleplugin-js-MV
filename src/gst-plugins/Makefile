@@ -140,25 +140,25 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/rule:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f CMakeFiles/Makefile2 src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/rule
-.PHONY : src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/rule
+src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/rule:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f CMakeFiles/Makefile2 src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/rule
+.PHONY : src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/rule
 
 # Convenience name for target.
-kmssampleplugin-js-mvplugins: src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/rule
-.PHONY : kmssampleplugin-js-mvplugins
+kmssampleplugin_js_mvplugins: src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/rule
+.PHONY : kmssampleplugin_js_mvplugins
 
 # fast build rule for target.
-kmssampleplugin-js-mvplugins/fast:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build
-.PHONY : kmssampleplugin-js-mvplugins/fast
+kmssampleplugin_js_mvplugins/fast:
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build
+.PHONY : kmssampleplugin_js_mvplugins/fast
 
 kms-enumtypes.o: kms-enumtypes.c.o
 .PHONY : kms-enumtypes.o
 
 # target to build an object file
 kms-enumtypes.c.o:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/kms-enumtypes.c.o
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/kms-enumtypes.c.o
 .PHONY : kms-enumtypes.c.o
 
 kms-enumtypes.i: kms-enumtypes.c.i
@@ -166,7 +166,7 @@ kms-enumtypes.i: kms-enumtypes.c.i
 
 # target to preprocess a source file
 kms-enumtypes.c.i:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/kms-enumtypes.c.i
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/kms-enumtypes.c.i
 .PHONY : kms-enumtypes.c.i
 
 kms-enumtypes.s: kms-enumtypes.c.s
@@ -174,7 +174,7 @@ kms-enumtypes.s: kms-enumtypes.c.s
 
 # target to generate assembly for a file
 kms-enumtypes.c.s:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/kms-enumtypes.c.s
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/kms-enumtypes.c.s
 .PHONY : kms-enumtypes.c.s
 
 kmssamplefilter.o: kmssamplefilter.cpp.o
@@ -182,7 +182,7 @@ kmssamplefilter.o: kmssamplefilter.cpp.o
 
 # target to build an object file
 kmssamplefilter.cpp.o:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/kmssamplefilter.cpp.o
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/kmssamplefilter.cpp.o
 .PHONY : kmssamplefilter.cpp.o
 
 kmssamplefilter.i: kmssamplefilter.cpp.i
@@ -190,7 +190,7 @@ kmssamplefilter.i: kmssamplefilter.cpp.i
 
 # target to preprocess a source file
 kmssamplefilter.cpp.i:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/kmssamplefilter.cpp.i
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/kmssamplefilter.cpp.i
 .PHONY : kmssamplefilter.cpp.i
 
 kmssamplefilter.s: kmssamplefilter.cpp.s
@@ -198,7 +198,7 @@ kmssamplefilter.s: kmssamplefilter.cpp.s
 
 # target to generate assembly for a file
 kmssamplefilter.cpp.s:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/kmssamplefilter.cpp.s
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/kmssamplefilter.cpp.s
 .PHONY : kmssamplefilter.cpp.s
 
 samplefilter.o: samplefilter.c.o
@@ -206,7 +206,7 @@ samplefilter.o: samplefilter.c.o
 
 # target to build an object file
 samplefilter.c.o:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/samplefilter.c.o
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/samplefilter.c.o
 .PHONY : samplefilter.c.o
 
 samplefilter.i: samplefilter.c.i
@@ -214,7 +214,7 @@ samplefilter.i: samplefilter.c.i
 
 # target to preprocess a source file
 samplefilter.c.i:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/samplefilter.c.i
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/samplefilter.c.i
 .PHONY : samplefilter.c.i
 
 samplefilter.s: samplefilter.c.s
@@ -222,7 +222,7 @@ samplefilter.s: samplefilter.c.s
 
 # target to generate assembly for a file
 samplefilter.c.s:
-	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/samplefilter.c.s
+	cd /home/markos/Downloads/3kms-plugin-sample-MV/build && $(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/samplefilter.c.s
 .PHONY : samplefilter.c.s
 
 # Help Target
@@ -235,7 +235,7 @@ help:
 	@echo "... install"
 	@echo "... install/local"
 	@echo "... install/strip"
-	@echo "... kmssampleplugin-js-mvplugins"
+	@echo "... kmssampleplugin_js_mvplugins"
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
 	@echo "... kms-enumtypes.o"

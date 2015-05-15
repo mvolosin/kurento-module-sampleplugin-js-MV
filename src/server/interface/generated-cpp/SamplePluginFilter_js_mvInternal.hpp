@@ -19,7 +19,7 @@ namespace kurento
 {
 namespace module
 {
-namespace sampleplugin-js-mv
+namespace sampleplugin_js_mv
 {
 
 class SamplePluginFilter_js_mvMethodSetFilterType
@@ -82,7 +82,7 @@ private:
   std::shared_ptr<MediaPipeline> mediaPipeline;
 };
 
-} /* sampleplugin-js-mv */
+} /* sampleplugin_js_mv */
 } /* module */
 } /* kurento */
 

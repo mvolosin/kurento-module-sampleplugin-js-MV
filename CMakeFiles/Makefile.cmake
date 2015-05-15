@@ -12,9 +12,9 @@ SET(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/2.8.12.2/CMakeCCompiler.cmake"
   "CMakeFiles/2.8.12.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/2.8.12.2/CMakeSystem.cmake"
-  "src/server/FindKMSSAMPLEPLUGIN-JS-MV.cmake.in"
-  "src/server/kmssampleplugin-js-mv.pc.in"
-  "src/server/sampleplugin-js-mvDependencies.cmake"
+  "src/server/FindKMSSAMPLEPLUGIN_JS_MV.cmake.in"
+  "src/server/kmssampleplugin_js_mv.pc.in"
+  "src/server/sampleplugin_js_mvDependencies.cmake"
   "../config.h.cmake"
   "../src/CMakeLists.txt"
   "../src/gst-plugins/CMakeLists.txt"
@@ -92,8 +92,8 @@ SET(CMAKE_MAKEFILE_PRODUCTS
 # Dependency information for all targets:
 SET(CMAKE_DEPEND_INFO_FILES
   "src/server/CMakeFiles/generate_code.dir/DependInfo.cmake"
-  "src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/DependInfo.cmake"
-  "src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/DependInfo.cmake"
-  "src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/DependInfo.cmake"
-  "src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/DependInfo.cmake"
+  "src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/DependInfo.cmake"
+  "src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/DependInfo.cmake"
+  "src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/DependInfo.cmake"
+  "src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/DependInfo.cmake"
   )

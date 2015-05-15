@@ -153,56 +153,56 @@ generate_code/fast:
 .PHONY : generate_code/fast
 
 #=============================================================================
-# Target rules for targets named kmssampleplugin-js-mvimpl
+# Target rules for targets named kmssampleplugin_js_mvimpl
 
 # Build rule for target.
-kmssampleplugin-js-mvimpl: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 kmssampleplugin-js-mvimpl
-.PHONY : kmssampleplugin-js-mvimpl
+kmssampleplugin_js_mvimpl: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 kmssampleplugin_js_mvimpl
+.PHONY : kmssampleplugin_js_mvimpl
 
 # fast build rule for target.
-kmssampleplugin-js-mvimpl/fast:
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir/build
-.PHONY : kmssampleplugin-js-mvimpl/fast
+kmssampleplugin_js_mvimpl/fast:
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/build.make src/server/CMakeFiles/kmssampleplugin_js_mvimpl.dir/build
+.PHONY : kmssampleplugin_js_mvimpl/fast
 
 #=============================================================================
-# Target rules for targets named kmssampleplugin-js-mvinterface
+# Target rules for targets named kmssampleplugin_js_mvinterface
 
 # Build rule for target.
-kmssampleplugin-js-mvinterface: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 kmssampleplugin-js-mvinterface
-.PHONY : kmssampleplugin-js-mvinterface
+kmssampleplugin_js_mvinterface: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 kmssampleplugin_js_mvinterface
+.PHONY : kmssampleplugin_js_mvinterface
 
 # fast build rule for target.
-kmssampleplugin-js-mvinterface/fast:
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir/build
-.PHONY : kmssampleplugin-js-mvinterface/fast
+kmssampleplugin_js_mvinterface/fast:
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/build.make src/server/CMakeFiles/kmssampleplugin_js_mvinterface.dir/build
+.PHONY : kmssampleplugin_js_mvinterface/fast
 
 #=============================================================================
-# Target rules for targets named kmssampleplugin-js-mvmodule
+# Target rules for targets named kmssampleplugin_js_mvmodule
 
 # Build rule for target.
-kmssampleplugin-js-mvmodule: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 kmssampleplugin-js-mvmodule
-.PHONY : kmssampleplugin-js-mvmodule
+kmssampleplugin_js_mvmodule: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 kmssampleplugin_js_mvmodule
+.PHONY : kmssampleplugin_js_mvmodule
 
 # fast build rule for target.
-kmssampleplugin-js-mvmodule/fast:
-	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/build.make src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir/build
-.PHONY : kmssampleplugin-js-mvmodule/fast
+kmssampleplugin_js_mvmodule/fast:
+	$(MAKE) -f src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/build.make src/server/CMakeFiles/kmssampleplugin_js_mvmodule.dir/build
+.PHONY : kmssampleplugin_js_mvmodule/fast
 
 #=============================================================================
-# Target rules for targets named kmssampleplugin-js-mvplugins
+# Target rules for targets named kmssampleplugin_js_mvplugins
 
 # Build rule for target.
-kmssampleplugin-js-mvplugins: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 kmssampleplugin-js-mvplugins
-.PHONY : kmssampleplugin-js-mvplugins
+kmssampleplugin_js_mvplugins: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 kmssampleplugin_js_mvplugins
+.PHONY : kmssampleplugin_js_mvplugins
 
 # fast build rule for target.
-kmssampleplugin-js-mvplugins/fast:
-	$(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir/build
-.PHONY : kmssampleplugin-js-mvplugins/fast
+kmssampleplugin_js_mvplugins/fast:
+	$(MAKE) -f src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build.make src/gst-plugins/CMakeFiles/kmssampleplugin_js_mvplugins.dir/build
+.PHONY : kmssampleplugin_js_mvplugins/fast
 
 # Help Target
 help:
@@ -217,10 +217,10 @@ help:
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
 	@echo "... generate_code"
-	@echo "... kmssampleplugin-js-mvimpl"
-	@echo "... kmssampleplugin-js-mvinterface"
-	@echo "... kmssampleplugin-js-mvmodule"
-	@echo "... kmssampleplugin-js-mvplugins"
+	@echo "... kmssampleplugin_js_mvimpl"
+	@echo "... kmssampleplugin_js_mvinterface"
+	@echo "... kmssampleplugin_js_mvmodule"
+	@echo "... kmssampleplugin_js_mvplugins"
 .PHONY : help
 
 

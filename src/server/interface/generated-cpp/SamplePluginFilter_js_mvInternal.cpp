@@ -9,7 +9,7 @@ namespace kurento
 {
 namespace module
 {
-namespace sampleplugin-js-mv
+namespace sampleplugin_js_mv
 {
 
 void SamplePluginFilter_js_mvMethodSetFilterType::invoke (std::shared_ptr<SamplePluginFilter_js_mv> obj)
@@ -107,6 +107,6 @@ void SamplePluginFilter_js_mvConstructor::Serialize (kurento::JsonSerializer &s)
   }
 }
 
-} /* sampleplugin-js-mv */
+} /* sampleplugin_js_mv */
 } /* module */
 } /* kurento */

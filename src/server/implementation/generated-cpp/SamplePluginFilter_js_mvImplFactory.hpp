@@ -12,7 +12,7 @@ namespace kurento
 {
 namespace module
 {
-namespace sampleplugin-js-mv
+namespace sampleplugin_js_mv
 {
 
 class SamplePluginFilter_js_mvImplFactory : public virtual FilterImplFactory
@@ -31,7 +31,7 @@ private:
   MediaObjectImpl *createObject (const boost::property_tree::ptree &conf, std::shared_ptr<MediaPipeline> mediaPipeline) const;
 };
 
-} /* sampleplugin-js-mv */
+} /* sampleplugin_js_mv */
 } /* module */
 } /* kurento */
 

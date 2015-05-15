@@ -1,3 +1,3 @@
 
     extern "C" {const char * getModuleName ();}
-    const char * getModuleName () {return "sampleplugin-js-mv";}
+    const char * getModuleName () {return "sampleplugin_js_mv";}

@@ -13,17 +13,17 @@ namespace kurento
 {
 namespace module
 {
-namespace sampleplugin-js-mv
+namespace sampleplugin_js_mv
 {
 class SamplePluginFilter_js_mv;
-} /* sampleplugin-js-mv */
+} /* sampleplugin_js_mv */
 } /* module */
 } /* kurento */
 
 namespace kurento
 {
 class JsonSerializer;
-void Serialize (std::shared_ptr<kurento::module::sampleplugin-js-mv::SamplePluginFilter_js_mv> &object, JsonSerializer &serializer);
+void Serialize (std::shared_ptr<kurento::module::sampleplugin_js_mv::SamplePluginFilter_js_mv> &object, JsonSerializer &serializer);
 }
 
 namespace kurento
@@ -35,7 +35,7 @@ namespace kurento
 {
 namespace module
 {
-namespace sampleplugin-js-mv
+namespace sampleplugin_js_mv
 {
 class SamplePluginFilter_js_mv : public virtual Filter
 {
@@ -52,14 +52,14 @@ public:
   }
 
   virtual std::string getModule () const {
-    return "sampleplugin-js-mv";
+    return "sampleplugin_js_mv";
   }
 
   virtual void Serialize (JsonSerializer &serializer) = 0;
 
 };
 
-} /* sampleplugin-js-mv */
+} /* sampleplugin_js_mv */
 } /* module */
 } /* kurento */
 

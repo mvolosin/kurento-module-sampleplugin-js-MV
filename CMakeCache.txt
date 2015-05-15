@@ -319,16 +319,16 @@ KurentoModuleCreator_VERSION:PATH=3.0.10
 PKG_CONFIG_EXECUTABLE:FILEPATH=/usr/bin/pkg-config
 
 //Dependencies for the target
-kmssampleplugin-js-mvimpl_LIB_DEPENDS:STATIC=general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;/usr/lib/x86_64-linux-gnu/libkmselementsimpl.so;general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;/usr/lib/x86_64-linux-gnu/libkmsfiltersimpl.so;general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;/usr/lib/x86_64-linux-gnu/libkmselementsimpl.so;general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;tbb;general;rt;general;pthread;general;m;general;dl;general;tbb;general;rt;general;pthread;general;m;general;dl;general;kmssampleplugin-js-mvinterface;
+kmssampleplugin_js_mvimpl_LIB_DEPENDS:STATIC=general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;/usr/lib/x86_64-linux-gnu/libkmselementsimpl.so;general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;/usr/lib/x86_64-linux-gnu/libkmsfiltersimpl.so;general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;/usr/lib/x86_64-linux-gnu/libkmselementsimpl.so;general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;tbb;general;rt;general;pthread;general;m;general;dl;general;tbb;general;rt;general;pthread;general;m;general;dl;general;kmssampleplugin_js_mvinterface;
 
 //Dependencies for the target
-kmssampleplugin-js-mvinterface_LIB_DEPENDS:STATIC=general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;/usr/lib/x86_64-linux-gnu/libkmselementsimpl.so;general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;/usr/lib/x86_64-linux-gnu/libkmsfiltersimpl.so;general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;/usr/lib/x86_64-linux-gnu/libkmselementsimpl.so;general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;tbb;general;rt;general;pthread;general;m;general;dl;general;tbb;general;rt;general;pthread;general;m;general;dl;
+kmssampleplugin_js_mvinterface_LIB_DEPENDS:STATIC=general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;/usr/lib/x86_64-linux-gnu/libkmselementsimpl.so;general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;/usr/lib/x86_64-linux-gnu/libkmsfiltersimpl.so;general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;/usr/lib/x86_64-linux-gnu/libkmselementsimpl.so;general;kmscoreimpl;general;gstreamer-1.0;general;gstsdp-1.0;general;jsonrpc;general;glibmm-2.4;general;jsoncpp;general;gobject-2.0;general;sigc-2.0;general;glib-2.0;general;tbb;general;rt;general;pthread;general;m;general;dl;general;tbb;general;rt;general;pthread;general;m;general;dl;
 
 //Dependencies for the target
-kmssampleplugin-js-mvmodule_LIB_DEPENDS:STATIC=general;kmssampleplugin-js-mvimpl;general;kmssampleplugin-js-mvinterface;
+kmssampleplugin_js_mvmodule_LIB_DEPENDS:STATIC=general;kmssampleplugin_js_mvimpl;general;kmssampleplugin_js_mvinterface;
 
 //Dependencies for the target
-kmssampleplugin-js-mvplugins_LIB_DEPENDS:STATIC=general;gstreamer-1.0;general;gobject-2.0;general;glib-2.0;general;gstvideo-1.0;general;gstbase-1.0;general;gstreamer-1.0;general;gobject-2.0;general;glib-2.0;general;tbb;general;rt;general;pthread;general;m;general;dl;
+kmssampleplugin_js_mvplugins_LIB_DEPENDS:STATIC=general;gstreamer-1.0;general;gobject-2.0;general;glib-2.0;general;gstvideo-1.0;general;gstbase-1.0;general;gstreamer-1.0;general;gobject-2.0;general;glib-2.0;general;tbb;general;rt;general;pthread;general;m;general;dl;
 
 //The directory containing a CMake configuration file for opencv.
 opencv_DIR:PATH=opencv_DIR-NOTFOUND
@@ -750,7 +750,7 @@ KurentoModuleCreator_REQ_VERSION-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: KurentoModuleCreator_VERSION
 KurentoModuleCreator_VERSION-ADVANCED:INTERNAL=1
 //Library name got from model
-LIBRARY_NAME:INTERNAL=kmssampleplugin-js-mv
+LIBRARY_NAME:INTERNAL=kmssampleplugin_js_mv
 OPENCV_CFLAGS:INTERNAL=-I/usr/local/include/opencv;-I/usr/local/include
 OPENCV_CFLAGS_I:INTERNAL=
 OPENCV_CFLAGS_OTHER:INTERNAL=
