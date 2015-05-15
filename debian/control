@@ -1,0 +1,33 @@
+Source: kms-plugin-sample-mv
+Section: utils
+Priority: optional
+Maintainer: Marek Volosin <mvolosin@gmail.com>
+Build-Depends: debhelper (>= 8.0.0),
+ cmake,
+ pkg-config,
+ kms-core-dev,
+ kms-elements-dev,
+ kms-filters-dev,
+ libopencv-dev
+Standards-Version: 3.9.4
+Homepage: http://kurento.org
+Vcs-Git: git://github.com/mvolosin/kurento-module-sampleplugin-js-MV.git
+Vcs-Browser: https://github.com/mvolosin/kurento-module-sampleplugin-js-MV.git
+
+Package: kms-plugin-sample-mv
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends},
+Description: Kurento Plugin Sample MV
+
+Package: kms-plugin-sample-mv-dev
+Architecture: any
+Depends: kms-plugin-sample-mv (= ${binary:Version}),
+  kms-core-dev,
+  kms-elements-dev,
+  kms-filters-dev
+Description: Kurento Plugin Sample development files
+
+Package: kms-plugin-sample-mv-dbg
+Architecture: any
+Depends: kms-plugin-sample-mv (= ${binary:Version})
+Description: Kurento Plugin Sample MV debug symbols
