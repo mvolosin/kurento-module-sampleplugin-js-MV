@@ -1,0 +1,2 @@
+/usr/bin/ar cr libkmssampleplugin-js-mvinterface.a  CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MVInternal.cpp.o CMakeFiles/kmssampleplugin-js-mvinterface.dir/interface/generated-cpp/SamplePluginFilter-js-MV.cpp.o
+/usr/bin/ranlib libkmssampleplugin-js-mvinterface.a

@@ -1,0 +1,5 @@
+/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/CMakeFiles/generate_code.dir
+/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/CMakeFiles/kmssampleplugin-js-mvimpl.dir
+/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/CMakeFiles/kmssampleplugin-js-mvinterface.dir
+/home/markos/Downloads/3kms-plugin-sample-MV/build/src/server/CMakeFiles/kmssampleplugin-js-mvmodule.dir
+/home/markos/Downloads/3kms-plugin-sample-MV/build/src/gst-plugins/CMakeFiles/kmssampleplugin-js-mvplugins.dir

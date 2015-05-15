@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+f8e199d7372d80988dd082642ff5c5c1 src/gst-plugins/kms-enumtypes.c
+3316f32fa4ee04d9df94ae5895e67d57 src/gst-plugins/kms-enumtypes.h
+3d541cdda6f51ac57b5ab6406580ae2a src/gst-plugins/kms-enumtypes.h.template
+d9d066d71a8e1eca6ca927a42769a460 src/server/CMakeFiles/generate_code
